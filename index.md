@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP iGNITA
-tags: ignita
+
 type: project
 altfooter: true
 level: 4
