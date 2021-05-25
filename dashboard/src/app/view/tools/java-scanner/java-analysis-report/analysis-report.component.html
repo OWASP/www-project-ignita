@@ -1,0 +1,22 @@
+<div class="dialog">
+  <app-charts
+    *ngIf="loadComplete"
+    style="width: 100%"
+    [data]="chartData"
+  ></app-charts>
+
+  <div fxLayout fxLayout.xs="column" fxLayoutGap="10px" fxLayoutGap.xs="0">
+
+    <mat-card class="secondary-card">
+      <mat-list>
+        <h3 mat-subheader>Issues</h3>
+        <mat-list-item *ngFor="let issue of issueDetail">
+          <mat-icon mat-list-icon>report_problem</mat-icon>
+          <h4 mat-line>Type : {{ issue.bugType }}</h4>
+          <p mat-line>Issue : {{ issue.message }}</p>
+          <p mat-line>End-line : {{ issue.lineOfCode }}</p>
+        </mat-list-item>
+      </mat-list>
+    </mat-card>
+  </div>
+</div>

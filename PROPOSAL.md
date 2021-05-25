@@ -1,52 +1,9 @@
+# Google Summer of Code 2020 - OWASP
 
-### Project Classification
-
-![Flagship Project](assets/images/OWASP_Incubator_Project.svg)
-
-![Builders](assets/images/owasp_builders_small.png)
-![Breakers](assets/images/owasp_breakers_small.png)
-
-![Tool Project](assets/images/owasp_tool_project.png)
-
-### Project Information
-* <img src="assets/images/owasp_level_incubator.svg" width="66">
-  <span style="font-size: 1.3em;">Incubator Project</span>
+## OWASP iGNITA
 
 
-#### Audience
-* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
-* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
-* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
-# OWASP-iGNITA
-Static application security testing environment with SAST scanner and plugins
-
-
-### Code Repository
-
-* [Github Repository](https://github.com/OWASP/www-project-ignita)
-
-# Security Policy
-
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
 
 ### Project Overview
 
@@ -114,4 +71,7 @@ Requirement which satisfy the Important Selection Criteria,
 | 5.1 | Documenting the Analyzer | Mentor Review | 14 | 21/08/20 |NOT STARTED |
 | 5.2 | Documenting the Plugin | Mentor Review | 14 | 22/08/20 |NOT STARTED |
 | 5.3 | Writing the Developer Guide | Mentor Review | 14 | 23/08/20 |NOT STARTED |
+
+
+
 
