@@ -1,4 +1,12 @@
+---
+title: user_guide
+displaytext: User Guide
+layout:  null
+tab: true
+order: 1
+tags: ignita
 
+---
 # User Guide
 
 ## Installation
