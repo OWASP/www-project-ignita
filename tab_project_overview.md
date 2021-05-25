@@ -3,7 +3,7 @@ layout: col-sidebar
 title: project_overview
 displaytext: Project Overview
 tab: true
-level: 2
+level: 1
 tags: ignita
 
 ---
