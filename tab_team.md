@@ -1,9 +1,9 @@
 ---
 layout: col-sidebar
-lever: 3
 title: team
 displaytext: Team & Organization
 tab: true
+level: 3
 tags: ignita
 
 ---
