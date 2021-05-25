@@ -1,5 +1,5 @@
 ---
-title: user_guide
+title: user-guide
 displaytext: User Guide
 tab: true
 order: 1
