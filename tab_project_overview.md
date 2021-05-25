@@ -1,7 +1,8 @@
 ---
+lever: 2
 title: project_overview
 displaytext: Project Overview
-layout:  null
+layout: col-sidebar
 tab: true
 order: 2
 tags: ignita
