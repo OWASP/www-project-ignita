@@ -1,10 +1,10 @@
 ---
-title: user_guide
+layout: col-sidebar
+title: user-guide
 displaytext: User Guide
 tab: true
-order: 1
+level: 1
 tags: ignita
-
 ---
 # User Guide
 
