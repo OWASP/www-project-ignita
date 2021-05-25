@@ -1,8 +1,9 @@
 ---
+layout: col-sidebar
+lever: 3
 title: team
 displaytext: Team & Organization
 tab: true
-order: 3
 tags: ignita
 
 ---
