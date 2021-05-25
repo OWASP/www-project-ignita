@@ -3,7 +3,7 @@ layout: col-sidebar
 title: user_guide
 displaytext: User Guide
 tab: true
-level: 1
+level: 2
 tags: ignita
 ---
 # User Guide
