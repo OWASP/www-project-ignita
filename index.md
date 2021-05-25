@@ -1,6 +1,5 @@
 ---
 
-layout: col-sidebar
 title: OWASP iGNITA
 tags: ignita
 level: 2
