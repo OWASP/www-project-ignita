@@ -10,6 +10,6 @@ tags: ignita
 
 ## Project Team & Organization
 
-Azzeddine RAMRAMI: Project Leader
-Aazhar Aahamad: Project Leader and back-end developper.
- 
+* [Azzeddine Ramrami](mailto:azzeddine.ramrami@owasp.org)  : Project Leader
+* [Azhar Aahmad](mailto:azhar.2017815@iit.ac.lk) : Project Leader and back-end developper
+
