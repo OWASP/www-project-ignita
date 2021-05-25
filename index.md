@@ -1,9 +1,13 @@
 ---
+
 layout: col-sidebar
 title: OWASP iGNITA
 tags: ignita
-level: 0
+type: project
+altfooter: true
+level: 4
 
+pitch: standalone analyser to detect vulnerabilities where the OWASP iGNITA Scanner
 
 ---
 ## OWASP iGNITA
