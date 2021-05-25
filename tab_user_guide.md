@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: user-guide
+title: user_guide
 displaytext: User Guide
 tab: true
 level: 1
