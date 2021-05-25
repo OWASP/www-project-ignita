@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP iGNITA
-tags: ignita defenders breakers vulnerability-management
+tags: defenders breakers vulnerability-management
 type: project
 altfooter: true
 level: 4
