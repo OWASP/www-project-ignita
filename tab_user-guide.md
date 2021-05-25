@@ -49,7 +49,7 @@ Clone the project :
 
 Or 
 
-Download the project from :https://github.com/azharanees/OWASP-iGNITA/archive/master.zip
+Download the project from : https://owasp.org/www-project-ignita/
 
 
 #### Step 2: 
