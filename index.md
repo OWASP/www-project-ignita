@@ -5,7 +5,7 @@ title: OWASP iGNITA
 tags: ignita
 type: project
 altfooter: true
-level: 4
+level: 0
 
 pitch: standalone analyser to detect vulnerabilities where the OWASP iGNITA Scanner
 
