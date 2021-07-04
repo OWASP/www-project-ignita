@@ -24,19 +24,19 @@ tags: ignita
 
 #### Installing pre-requisites
 NodeJS:<br>
-https://nodejs.org/en/download/
+<https://nodejs.org/en/download/>
 
 Angular:<br>
-https://angular.io/
+<https://angular.io/>
 
 SonarQube:<br>
-https://www.sonarqube.org/downloads/
+<https://www.sonarqube.org/downloads/>
 
 Sonar-Scanner:<br>
-https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/
+<https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/>
 
 Mongodb:<br>
-https://www.mongodb.com/download-center/community
+<https://www.mongodb.com/download-center/community>
 
 ### Procedure for installing
 
@@ -48,7 +48,7 @@ Clone the project :
 
 Or 
 
-Download the project from : https://owasp.org/www-project-ignita/
+Download the project from: <https://owasp.org/www-project-ignita/>
 
 
 #### Step 2: 

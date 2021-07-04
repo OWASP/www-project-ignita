@@ -7,19 +7,9 @@ level: 1
 tags: ignita
 
 ---
-### Project Classification
-
-![Flagship Project](assets/images/OWASP_Incubator_Project.svg)
-
-![Builders](assets/images/owasp_builders_small.png)
-![Breakers](assets/images/owasp_breakers_small.png)
-
-![Tool Project](assets/images/owasp_tool_project.png)
 
 ### Project Information
-* <img src="assets/images/owasp_level_incubator.svg" width="66">
-  <span style="font-size: 1.3em;">Incubator Project</span>
-
+* <i class="fas fa-egg" style="color:#233e81;"></i> Incubator Project
 
 #### Audience
 * <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
